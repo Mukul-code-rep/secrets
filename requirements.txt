@@ -1,0 +1,9 @@
+Flask==1.0.2
+flask
+email_validator
+pip~=21.2.4
+wheel~=0.36.2
+cryptography~=3.3.1
+tornado~=6.1
+setuptools~=51.1.2
+WTForms~=2.3.3
